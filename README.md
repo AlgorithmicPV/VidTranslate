@@ -1,4 +1,4 @@
-# Vidtranslate
+# Vidtranslate (video-translation) (subtitle-translation)
 
 ## Introduction
 
